@@ -1,2 +1,2 @@
 # Simple-Todo-List-Project
-![Image](https://github.com/user-attachments/assets/48eded3f-a6a0-453b-8442-1ad3ed12084d)
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/882ff190-274e-4cf9-810b-5d55a5fc70be" />
